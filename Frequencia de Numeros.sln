@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frequencia de Numeros.ConsoleApp", "Frequencia de Numeros.ConsoleApp\Frequencia de Numeros.ConsoleApp.csproj", "{340A7B41-283D-4897-998F-348442227C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340A7B41-283D-4897-998F-348442227C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340A7B41-283D-4897-998F-348442227C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340A7B41-283D-4897-998F-348442227C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340A7B41-283D-4897-998F-348442227C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BD8FF73-3B7B-4A16-8D3E-4B382527F238}
+	EndGlobalSection
+EndGlobal
